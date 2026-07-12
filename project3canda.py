@@ -28,7 +28,8 @@ st.set_page_config(
 )
 
 st.title("📈 Canada Per Capita Income Prediction")
-st.write("Predict Canada's per capita income using Linear Regression.")
+st.write("Predict Canada's per capita income using Linear Regression."
+         "Project by Aditi Srivastava with roll no. 2401221550005")
 
 # --------------------------------------------------
 # Load Dataset
